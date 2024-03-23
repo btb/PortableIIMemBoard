@@ -1,0 +1,226 @@
+(footprint "C_Rect_L7.0mm_W2.0mm_P5.00mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7*2mm^2, Capacitor")
+	(tags "C Rect series Radial pin pitch 5.00mm  length 7mm width 2mm Capacitor")
+	(property "Reference" "C70"
+		(at -4.32 -0.425 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "65d54558-b3cc-4c32-aedb-56fd175c4d09")
+		(effects
+			(font
+				(size 1.8 2.2)
+				(thickness 0.25)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 2.5 2.25 180)
+		(layer "F.Fab")
+		(uuid "e482d427-f1a4-4e5a-a85c-dfb524e2fde3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83a293f4-839e-4b7d-817f-2c94a36b01b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e234792-541c-4aa6-a895-8c77f4a21e6f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Unpolarized capacitor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ca50410-4209-4b2c-9e2d-21204561f5a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole dnp)
+	(fp_line
+		(start -1.12 -1.25)
+		(end -1.12 1.25)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d02b0efa-17c9-4deb-8096-5620db9691b7")
+	)
+	(fp_line
+		(start -1.12 -1.25)
+		(end 6.12 -1.25)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85471017-398d-487a-810a-a708680e78ee")
+	)
+	(fp_line
+		(start -1.12 1.25)
+		(end 6.12 1.25)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "678ad445-98a4-47c9-bff3-31ec2b0cf36e")
+	)
+	(fp_line
+		(start 6.12 -1.25)
+		(end 6.12 1.25)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "245457ec-f6ef-4a55-b90f-1aaa29d49f72")
+	)
+	(fp_line
+		(start -1.25 -1.25)
+		(end -1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ee06e66-cfb4-42c5-89d7-bf659da0147a")
+	)
+	(fp_line
+		(start -1.25 1.25)
+		(end 6.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a7608214-84f9-4036-ba8d-495129fa3a27")
+	)
+	(fp_line
+		(start 6.25 -1.25)
+		(end -1.25 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ddc1807-3949-465c-beea-6e28b1a1f6c8")
+	)
+	(fp_line
+		(start 6.25 1.25)
+		(end 6.25 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "267f2e37-3589-48d2-8373-7648aa571d2e")
+	)
+	(fp_line
+		(start -1 -1)
+		(end -1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ba1a439-e418-4e14-91ab-325a641a83a8")
+	)
+	(fp_line
+		(start -1 1)
+		(end 6 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ae41f71-20ca-4620-bc8b-fdefca072497")
+	)
+	(fp_line
+		(start 6 -1)
+		(end -1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f42c9af2-1755-4cda-a587-e22f3d970365")
+	)
+	(fp_line
+		(start 6 1)
+		(end 6 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "302bd0d2-1596-4840-8751-ed026fde29bb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 0 180)
+		(layer "F.Fab")
+		(uuid "3ff8b3dd-760f-4184-adec-e3c32d5cda81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c39ffc89-bc8e-43c0-8ceb-ad712856518a")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "be7ed46e-7c37-45bf-99ad-1abcf690d795")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
