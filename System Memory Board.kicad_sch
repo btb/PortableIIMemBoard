@@ -5091,6 +5091,30 @@
 		(color 0 0 0 0)
 		(uuid "fe678938-c9f6-47f2-b417-f2fc3a1bd685")
 	)
+	(no_connect
+		(at 106.68 27.94)
+		(uuid "28357de3-de61-4fa7-8681-180a6d9dca54")
+	)
+	(no_connect
+		(at 243.84 33.02)
+		(uuid "2e83cacc-2c86-4a53-b139-70c8993f9883")
+	)
+	(no_connect
+		(at 63.5 27.94)
+		(uuid "3c1ebae7-23d4-4232-8a23-a7670a62860b")
+	)
+	(no_connect
+		(at 132.08 27.94)
+		(uuid "5132c756-da02-46f8-94ec-aa08f0a11f19")
+	)
+	(no_connect
+		(at 243.84 30.48)
+		(uuid "8560b1bb-ccbe-4b51-ac7e-fdab40dc2d84")
+	)
+	(no_connect
+		(at 231.14 30.48)
+		(uuid "def004d9-454d-4682-a68c-18a851ae30c4")
+	)
 	(wire
 		(pts
 			(xy 208.28 58.42) (xy 190.5 58.42)
@@ -7680,6 +7704,16 @@
 			(type default)
 		)
 		(uuid "cb976014-8cb2-44c0-9326-239176903ab5")
+	)
+	(wire
+		(pts
+			(xy 43.18 27.94) (xy 43.18 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc55787-5983-4914-b933-633d62bc1444")
 	)
 	(wire
 		(pts
@@ -13099,6 +13133,72 @@
 			(project "System Memory Board"
 				(path "/5d4fb4c3-1130-42ed-b8b4-cc3440786f60"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 43.18 17.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e12c00f7-3e2e-448e-ab6d-774ea03d9205")
+		(property "Reference" "#PWR070"
+			(at 43.18 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 43.18 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 43.18 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "800da88d-e090-4143-a5fa-00f9fb8d4078")
+		)
+		(instances
+			(project "System Memory Board"
+				(path "/5d4fb4c3-1130-42ed-b8b4-cc3440786f60"
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
