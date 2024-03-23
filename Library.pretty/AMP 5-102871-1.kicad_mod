@@ -65,8 +65,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -1.33 -1.33)
-		(end -1.33 64.83)
+		(start -2.413 -10.033)
+		(end -2.413 73.533)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "4607dbc1-ce47-4aec-a1ff-c6763624990b")
 	)
 	(fp_line
-		(start 1.27 -1.33)
-		(end -1.33 -1.33)
+		(start 4.953 -10.033)
+		(end -2.413 -10.033)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -85,48 +85,8 @@
 		(uuid "25175c3a-ba89-4bdd-aded-14216d97b020")
 	)
 	(fp_line
-		(start 1.27 1.27)
-		(end 1.27 -1.33)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7eca34ad-46f9-4d95-82fa-4c163bb2ea07")
-	)
-	(fp_line
-		(start 3.87 -1.33)
-		(end 2.54 -1.33)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "e7708306-8b49-4886-b657-51db6f9a5368")
-	)
-	(fp_line
-		(start 3.87 0)
-		(end 3.87 -1.33)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "2a10d139-4418-4680-8539-d18d96bc088c")
-	)
-	(fp_line
-		(start 3.87 1.27)
-		(end 1.27 1.27)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "74bfab07-2eec-4d3a-be89-5677bf8f5483")
-	)
-	(fp_line
-		(start 3.87 1.27)
-		(end 3.87 64.83)
+		(start 4.953 -10.033)
+		(end 4.953 73.533)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -135,8 +95,8 @@
 		(uuid "4b45ff64-fa63-4cf2-b8de-cd53a78dd590")
 	)
 	(fp_line
-		(start 3.87 64.83)
-		(end -1.33 64.83)
+		(start 4.953 73.533)
+		(end -2.413 73.533)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -467,7 +427,7 @@
 		(remove_unused_layers no)
 		(uuid "1219e19f-7f61-4d33-bcaa-5c0c85cefe7a")
 	)
-	(pad "b1" thru_hole oval
+	(pad "b1" thru_hole rect
 		(at 0 0)
 		(size 1.7 1.7)
 		(drill 1)
