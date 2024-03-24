@@ -23,5 +23,5 @@ I couldn't account for every signal on the connector though, and was somewhat st
 
 Using those photos, and HoJoPo's testing of certain connections, I was able to confirm most of the speculative schematic I'd been drawing, and get those logic gates to match precisely what was on the real board. 
 
-Over on Youtube, Nick Silvestro had [a video](https://www.youtube.com/watch?v=IMVrAlZOAtU) about the reproduction of a similar memory expansion for the Portable III. I left a comment there, and they came over to help out as well, spotting some more differences and implementing a board layout that precisely matched the original.
+Over on Youtube, Nick Silvestro had [a video](https://www.youtube.com/watch?v=IMVrAlZOAtU) about the reproduction of a similar memory expansion for the Portable III. I left a comment there, and they came over to help out as well, spotting some more differences and implementing a complete board layout and artwork that faithfully matches the original.
 ![render](https://github.com/btb/PortableIIMemBoard/assets/149551/e07547b9-84e4-47d6-9307-5962e177f68f)
