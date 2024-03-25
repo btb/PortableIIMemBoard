@@ -12544,21 +12544,21 @@
 		(fields_autoplaced yes)
 		(uuid "a315692d-7f1e-4696-88dd-d1577fdb7207")
 		(property "Reference" "C73"
-			(at 31.75 94.6149 0)
+			(at 24.13 94.6149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "~"
-			(at 31.75 96.52 0)
+			(at 24.13 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
@@ -12684,21 +12684,21 @@
 		(fields_autoplaced yes)
 		(uuid "b4e45aa0-bd51-4703-bcce-d274a915c5d5")
 		(property "Reference" "R6"
-			(at 30.48 86.3599 0)
+			(at 25.4 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "R"
-			(at 30.48 88.8999 0)
+			(at 25.4 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
@@ -12819,23 +12819,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
+		(fields_autoplaced yes)
 		(uuid "c03a986f-19c7-41b0-b36c-608f8b44d61c")
 		(property "Reference" "C74"
-			(at 33.02 94.6149 0)
+			(at 40.64 94.6149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "~"
-			(at 33.02 96.52 0)
+			(at 40.64 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
