@@ -22,7 +22,7 @@ and the logic which controlled the transceivers that facilitated access to the d
 Eventually I found the analogous lines going to the expansion connector, 
 where there must necessarily be more or less the same transceivers and logic gates, and started my own schematic of the Memory Board itself.
 
-I couldn't account for every signal on the connector though, and was somewhat stuck. Then HoJoPo replied to my thread that they had one of those boards, and sent photos! 
+I couldn't account for every signal on the connector though, and was somewhat stuck. Then HoJoPo replied to my thread that they had one of those boards, and sent [photos](photos/)! 
 
 Using those photos, and HoJoPo's testing of certain connections, I was able to confirm most of the speculative schematic I'd been drawing, and get those logic gates to match precisely what was on the real board. 
 
