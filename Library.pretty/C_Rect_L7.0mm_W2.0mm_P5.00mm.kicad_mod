@@ -212,7 +212,7 @@
 		(remove_unused_layers no)
 		(uuid "be7ed46e-7c37-45bf-99ad-1abcf690d795")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P5.00mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
