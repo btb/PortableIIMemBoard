@@ -1,6 +1,10 @@
 # PortableIIMemBoard
 Reverse engineering of the System Memory Board for the Compaq Portable II
 
+[Interactive BOM](https://btb.github.io/PortableIIMemBoard/bom/ibom.html)
+
+## About
+
 I discovered the existence of this board from reading the 
 [Maintenance and Service guide for the Portable II](https://minuszerodegrees.net/manuals/Compaq/Compaq%20Portable%20II%20-%20Maintenance%20and%20Service%20Guide.pdf). 
 
